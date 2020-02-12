@@ -1,0 +1,17 @@
+{
+  "name": "vue-number-custom",
+  "version": "1.0.3",
+  "description": "Number input only allows integer and decimal values ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "number",
+    "vue number",
+    "number"
+  ],
+  "author": "Sekar Perumal",
+  "license": "MIT"
+}
